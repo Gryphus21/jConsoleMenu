@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author Gryphus21
  * @version 1.0.2
  * @project jConsoleMenu
- * @package menu
+ * @package jconsolemenu
  * @created 12/03/2020
  */
 public class jConsoleMenu {
