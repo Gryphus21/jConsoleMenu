@@ -2,7 +2,7 @@
 This Java library allows you to build a small choice menu in a terminal console application, selecting the desired option by means of a choice number.
 # Library usage
 
-```
+```cpp
 public static void main(String[] args) {
     jConsoleMenu menu = new jConsoleMenu("# MAIN TITLE #");
     
